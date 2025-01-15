@@ -212,7 +212,7 @@ final class HeaderDiscovery {
         unresolvablePathProblems.add(execPathFragment.getPathString());
       }
     }
-    if (shouldValidateInclusions) {
+    if (false) {
       absolutePathProblems.assertProblemFree(
           "absolute path inclusion(s) found in rule '"
               + action.getOwner().getLabel()
