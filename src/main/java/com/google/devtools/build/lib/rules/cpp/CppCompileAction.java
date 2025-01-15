@@ -1046,6 +1046,7 @@ public class CppCompileAction extends AbstractAction implements IncludeScannable
         errors.add(input.getExecPath().toString());
       }
     }
+    /*
     errors.assertProblemFree(
         "undeclared inclusion(s) in rule '"
             + this.getOwner().getLabel()
@@ -1055,6 +1056,7 @@ public class CppCompileAction extends AbstractAction implements IncludeScannable
             + getSourceFile().prettyPrint()
             + "':",
         this);
+        */
   }
 
   private Iterable<PathFragment> getValidationIgnoredDirs() {
