@@ -248,7 +248,7 @@
     "//:repositories.bzl%async_profiler_repos": {
       "general": {
         "bzlTransitiveDigest": "Ww9wnb5bUrfiGxZWrHzhCg0D43FYaQKad1cb0xSJZZg=",
-        "usagesDigest": "sZRrbFQKw5lxsXhOehwC65S9w1JIcd3gp3/ji8P+J2A=",
+        "usagesDigest": "L+Dq4BJ12RINchUTNgBkWOh3Uj60/jTzSoaK86jTDuY=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -459,7 +459,7 @@
     "@@googleapis+//:extensions.bzl%switched_rules": {
       "general": {
         "bzlTransitiveDigest": "vG6fuTzXD8MMvHWZEQud0MMH7eoC4GXY0va7VrFFh04=",
-        "usagesDigest": "jQROZZmV0PObVIQsQbOGRB2vVMcEEvdSrIX+K7ESL/4=",
+        "usagesDigest": "h2I54k6wyqy3yTh/T7Q+2gKII+5onXkIXguISKZhULE=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -1387,7 +1387,7 @@
     "@@rules_graalvm+//:extensions.bzl%graalvm": {
       "general": {
         "bzlTransitiveDigest": "h5NoLe6qf+ziboLGAdcXrD+fgwCizx5PmMd0VH19SXY=",
-        "usagesDigest": "rYMQ96F4IfKD+CDS3CvlnmSiw+n4ZspZj9FtQ3H7zdo=",
+        "usagesDigest": "2iRgWyR9X5Lt9UDr7wUP9S5qxmCwbCnpZzpqWZkilCQ=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -1423,7 +1423,7 @@
     "@@rules_jvm_external+//:extensions.bzl%maven": {
       "general": {
         "bzlTransitiveDigest": "EiP5RMs818da+TFvmtOPqMoY01tAhgGvpvsisUvs74U=",
-        "usagesDigest": "NN3iITJFdQ/zJ7lsm0OKaZTEdCWC6bX8oesPEqfu4cQ=",
+        "usagesDigest": "jWUAuMS65CpmFTJ3wgkSHjxgzK7su8Gh6QtdPmLt7xY=",
         "recordedFileInputs": {
           "@@//maven_install.json": "73f376b5837fa1bdf89ba1d0ee1d7c4817689be379ce454c3bfb31840ea1f7a7",
           "@@rules_jvm_external+//rules_jvm_external_deps_install.json": "cafb5d2d8119391eb2b322ce3840d3352ea82d496bdb8cbd4b6779ec4d044dda",
